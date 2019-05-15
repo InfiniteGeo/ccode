@@ -8,7 +8,7 @@ int main() {
 	pointer = integers;
 	//print array
 	cout<<"print integers[] array"<<"\n\n";
-	for (int n = 0; n < 5; n++){
+	for (int n = 0; n < 10; n++){
 		//integers[n] = 0;
 		cout << integers[n]<<"\n";
 	}
